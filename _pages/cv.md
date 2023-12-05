@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* hi
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Chemical Engineering, Imperial College London, 2024 (expected)
+* M.Sc. in Chemical Engineering Research, Universidad de los Andes, 2018 - 2020
+* B.Eng. in Chemical Engineering, Universidad de los Andes, 2013 - 2017
 
 Work experience
 ======
